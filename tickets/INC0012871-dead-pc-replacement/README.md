@@ -38,7 +38,21 @@ The user confirmed the delivery address through Team Chat. I informed the user t
 
 ## Evidence
 
-Screenshots will be added after the evidence files are uploaded.
+- [Ticket overview](screenshots/INC0012871_01_Ticket-Overview.png)
+- [Scope confirmation](screenshots/INC0012871_02_Scope-Confirmation.png)
+- [Power troubleshooting](screenshots/INC0012871_03_Power-Troubleshooting.png)
+- [Asset tag available](screenshots/INC0012871_04_Asset-Tag-Available.png)
+- [Desktop deployment selected](screenshots/INC0012871_05_Desktop-Deployment-Selected.png)
+- [Physical setup completed](screenshots/INC0012871_06_Physical-Setup-Completed.png)
+- [PXE IPv4 selected](screenshots/INC0012871_07_PXE-IPv4-Selected.png)
+- [Computer name assigned](screenshots/INC0012871_08_Computer-Name-Assigned.png)
+- [Deployment successful](screenshots/INC0012871_09_Deployment-Successful.png)
+- [Asset registered](screenshots/INC0012871_10_Asset-Registered.png)
+- [Delivery address confirmed](screenshots/INC0012871_11_Delivery-Address-Confirmed.png)
+- [Replacement delivered](screenshots/INC0012871_12_Replacement-Delivered.png)
+- [User validation](screenshots/INC0012871_13_User-Validation.png)
+- [Asset deployed](screenshots/INC0012871_14_Asset-Deployed.png)
+- [Ticket resolved](screenshots/INC0012871_15_Ticket-Resolved.png)
 
 ## Documentation Notice
 
